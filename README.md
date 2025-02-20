@@ -53,9 +53,9 @@ streamlit run app.py
 ## 📷 Screenshots
 | Growth Mindset Challenge | Data Sweeper |
 |-------------------------|-------------|
-(<img width="957" alt="q1" src="https://github.com/user-attachments/assets/77d055f5-4a60-4993-8775-7237ff0b6d30" />
-)(<img width="958" alt="z" src="https://github.com/user-attachments/assets/31010b3d-7c19-4716-b4b6-a670dbed7085" />
-)
+(<img width="957" alt="q1" src="https://github.com/user-attachments/assets/77d055f5-4a60-4993-8775-7237ff0b6d30" />)
+(<img width="958" alt="z" src="https://github.com/user-attachments/assets/31010b3d-7c19-4716-b4b6-a670dbed7085" />)
+
 
 ---
 
