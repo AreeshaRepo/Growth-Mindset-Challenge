@@ -39,8 +39,8 @@ pip install streamlit pandas openpyxl
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/growth-mindset-data-sweeper.git
-cd growth-mindset-data-sweeper
+git clone https://github.com/AreeshaRepo/Growth-Mindset-Challenge.git
+cd Growth-Mindset-Challenge
 ```
 
 ### Run the App
@@ -53,7 +53,9 @@ streamlit run app.py
 ## 📷 Screenshots
 | Growth Mindset Challenge | Data Sweeper |
 |-------------------------|-------------|
-| ![Growth Mindset](images/growth_mindset.png) | ![Data Sweeper](images/data_sweeper.png) |
+| ![Growth Mindset](<img width="957" alt="q1" src="https://github.com/user-attachments/assets/77d055f5-4a60-4993-8775-7237ff0b6d30" />
+) | ![Data Sweeper](<img width="958" alt="z" src="https://github.com/user-attachments/assets/31010b3d-7c19-4716-b4b6-a670dbed7085" />
+) |
 
 ---
 
