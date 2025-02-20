@@ -3,7 +3,9 @@
 Welcome to the **Growth Mindset Challenge** and **Data Sweeper App**, a powerful and engaging Streamlit-based web application that helps users stay motivated and manage their data efficiently. 🚀
 
 ## 📌 Project Overview
+
 This project consists of two key apps:
+
 1. **Growth Mindset Challenge** – A daily motivation and reflection app designed to cultivate a positive learning mindset.
 2. **Data Sweeper** – A data transformation tool that allows users to upload, clean, and convert CSV and Excel files.
 
@@ -12,6 +14,7 @@ This project consists of two key apps:
 ## 🎯 Features
 
 ### 🌱 Growth Mindset Challenge
+
 - **Daily Reflections:** Track your learning, challenges, and progress.
 - **Motivational Quotes:** Get inspired with random quotes.
 - **Goal Setting:** Set and review weekly and monthly goals.
@@ -20,6 +23,7 @@ This project consists of two key apps:
 - **Community & Resources:** Explore books, podcasts, courses, and social media groups for personal development.
 
 ### 📊 Data Sweeper
+
 - **Upload CSV/Excel Files:** Process multiple files at once.
 - **Data Cleaning:** Remove duplicates, fill missing values, and filter columns.
 - **Data Visualization:** Generate charts for numeric data.
@@ -31,6 +35,7 @@ This project consists of two key apps:
 ## 🚀 Installation & Setup
 
 ### Prerequisites
+
 Ensure you have Python and Streamlit installed on your system.
 
 ```bash
@@ -38,12 +43,14 @@ pip install streamlit pandas openpyxl
 ```
 
 ### Clone the Repository
+
 ```bash
 git clone https://github.com/AreeshaRepo/Growth-Mindset-Challenge.git
 cd Growth-Mindset-Challenge
 ```
 
 ### Run the App
+
 ```bash
 streamlit run app.py
 ```
@@ -51,15 +58,15 @@ streamlit run app.py
 ---
 
 ## 📷 Screenshots
-| Growth Mindset Challenge | Data Sweeper |
-|-------------------------|-------------|
-(<img width="957" alt="q1" src="https://github.com/user-attachments/assets/77d055f5-4a60-4993-8775-7237ff0b6d30" />)
-(<img width="958" alt="z" src="https://github.com/user-attachments/assets/31010b3d-7c19-4716-b4b6-a670dbed7085" />)
 
+| Growth Mindset Challenge | Data Sweeper |
+| <img width="957" alt="q1" src="https://github.com/user-attachments/assets/77d055f5-4a60-4993-8775-7237ff0b6d30" /> |<img width="958" alt="z" src="https://github.com/user-attachments/assets/31010b3d-7c19-4716-b4b6-a670dbed7085" />|
+|                          |              |
 
 ---
 
 ## 🔥 Future Enhancements
+
 - **User Authentication:** Save reflections and goals for each user.
 - **Database Integration:** Store progress over time.
 - **Advanced Data Cleaning:** Add more intelligent data transformations.
@@ -67,6 +74,7 @@ streamlit run app.py
 ---
 
 ## 🤝 Contributing
+
 Want to contribute? Feel free to submit a pull request! 😊
 
 1. Fork the repository.
@@ -78,9 +86,10 @@ Want to contribute? Feel free to submit a pull request! 😊
 ---
 
 ## 📧 Contact
-👩‍💻 **Areesha Abdul Sattar**  
-📩 **Email:** areesha21314@gmail.com  
-🔗 **GitHub:** [your-username](https://github.com/your-username)
+
+👩‍💻 **Areesha Abdul Sattar**\
+📩 **Email:** [areesha21314@gmail.com](mailto\:areesha21314@gmail.com)\
+🔗 **GitHub:** [your-username](https://github.com/AreeshaRepo)
 
 ---
 
