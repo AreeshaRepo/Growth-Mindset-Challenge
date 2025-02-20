@@ -87,7 +87,7 @@ Want to contribute? Feel free to submit a pull request! 😊
 
 👩‍💻 **Areesha Abdul Sattar**\
 📩 **Email:** [areesha21314@gmail.com](mailto\:areesha21314@gmail.com)\
-🔗 **GitHub:** [your-username](https://github.com/AreeshaRepo)
+🔗 **GitHub:** [My Profile](https://github.com/AreeshaRepo)
 
 ---
 
